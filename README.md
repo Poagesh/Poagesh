@@ -25,14 +25,14 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Poagesh&show_icons=true&theme=radical" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Poagesh&theme=radical" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poagesh&layout=compact&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Poagesh&show_icons=true&theme=dark" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Poagesh&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poagesh&layout=compact&theme=dark" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poagesh&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poagesh&theme=dark" />
 </p>
 
 
