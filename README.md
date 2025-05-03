@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **poageshn@gmail.com**
 
-- 📄 Know about my experiences [resume]([poagesh.resume](https://drive.google.com/file/d/1zG0ZQmWIEhN2zfamIc_J8Xtylpcj9vSV/view?usp=sharing))
+- 📄 Know about my experiences [resume]([resume](https://drive.google.com/file/d/1zG0ZQmWIEhN2zfamIc_J8Xtylpcj9vSV/view?usp=sharing))
 
 - ⚡ Fun fact **I use Arch btw**
 
