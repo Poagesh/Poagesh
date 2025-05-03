@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Poagesh N</h1>
 <h3 align="center">A Engineer. Explorer. On a mission to build and optimize intelligent systems.</h3>
 
-- 👯 I’m looking to collaborate on **large scale and impactfull projects**
+- 🤝 I’m looking to collaborate on **large scale and impactfull projects**
 
 - 💬 Ask me about **Full Stack Development, Artificial Intelligence, DevOps, and anything related to tech**
 
 - 📫 How to reach me **poageshn@gmail.com**
 
-- 📄 Know about my experiences [poagesh.resume](poagesh.resume)
+- 📄 Know about my experiences [resume]([poagesh.resume](https://drive.google.com/file/d/1zG0ZQmWIEhN2zfamIc_J8Xtylpcj9vSV/view?usp=sharing))
 
 - ⚡ Fun fact **I use Arch btw**
 
