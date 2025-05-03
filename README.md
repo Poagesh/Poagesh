@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poagesh&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Poagesh&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Poagesh" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
