@@ -18,15 +18,14 @@
 
 ### 🧩 LeetCode Stats
 
-[![Poagesh's LeetCode stats](https://leetcard.jacoblin.cool/Poagesh?ext=contest&theme=dark&animation=true)](https://leetcode.com/Poagesh)
+[![Poagesh's LeetCode stats](https://leetcard.jacoblin.cool/Poagesh?ext=contest&theme=radical&animation=true)](https://leetcode.com/Poagesh)
 
-### GitHub Stats
-
-![Poagesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poagesh&show_icons=true&theme=radical)
-
-### GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Poagesh&theme=radical)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Poagesh&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Poagesh&theme=radical" /></td>
+  </tr>
+</table>
 
 
 <h3 align="left">Languages and Tools:</h3>
