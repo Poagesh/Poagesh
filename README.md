@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Poagesh N</h1>
+<h1 align="center">Hi 👋, I'm Poagesh N.</h1>
 <h3 align="center">A Engineer. Explorer. On a mission to build and optimize intelligent systems.</h3>
 
-- 🤝 I’m looking to collaborate on **large scale and impactfull projects**
+- 🤝 I’m looking to collaborate on **intresting, challenging and impactfull projects!**
 
-- 💬 Ask me about **Full Stack Development, Artificial Intelligence, DevOps, and anything related to tech**
+- 💬 Ask me about **Full Stack Development, Artificial Intelligence, DevOps, and anything related to tech!**
 
 - 📫 How to reach me **poageshn@gmail.com**
 
@@ -96,3 +96,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+
+
+<p> Welcome to my GitHub! Feel free to reach out, collaborate, or connect with me. I'm always open to new opportunities and ideas! 🚀</p>
