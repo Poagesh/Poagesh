@@ -9,7 +9,8 @@
 
 - 📄 Know about my experiences [Poagesh/resume](https://drive.google.com/file/d/1zG0ZQmWIEhN2zfamIc_J8Xtylpcj9vSV/view?usp=sharing)
 
-- ⚡ Fun fact **I use Arch btw**
+- ⚡ Fun fact ![I use Arch btw](https://img.shields.io/badge/I%20use-Arch%20btw-1793D1?logo=arch-linux&logoColor=white)
+
 
 
 ### 🧩 LeetCode Stats
